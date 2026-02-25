@@ -1,2 +1,3 @@
 # SkillageIT Inventory Management
-To replace outdated software for tracking inventory, supplies, product assembly, support tickets, sales and order
+This VCS is being used replace outdated
+Software used for tracking inventory, supplies and product assembly
